@@ -4,7 +4,7 @@ This was the final project that my partner, Catherine Li, and I made for our Int
 
 ## Prerequisites
 - [Python 3.6x](https://www.python.org/downloads/)
-- [Cornell Extensions](http://cs1110.cs.cornell.edu/docs/)
+- [Cornell Extensions](http://www.cs.cornell.edu/courses/cs1110/2018fa/materials/python.php)
 
 The folders game2d, Fonts, Sounds, and __pycache__ were provided to us. The images were also provided except for 
 linearsprite, linearsprite2, pixelnight, pixelnightsprite, soundOff, soundOn, and test2, which were drawn by Catherine.
